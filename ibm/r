@@ -1,0 +1,10 @@
+./gen lit -nitems 1 -ntrans 1 -ascii -fname ibm1
+./gen lit -nitems 1 -ntrans 2 -ascii -fname ibm2
+./gen lit -nitems 1 -ntrans 3 -ascii -fname ibm3
+./gen lit -nitems 1 -ntrans 4 -ascii -fname ibm4
+./gen lit -nitems 1 -ntrans 5 -ascii -fname ibm5
+./gen lit -nitems 1 -ntrans 6 -ascii -randseed -6 -fname ibm6
+./gen lit -nitems 1 -ntrans 7 -ascii -fname ibm7
+./gen lit -nitems 1 -ntrans 8 -ascii -randseed -8 -fname ibm8
+./gen lit -nitems 1 -ntrans 9 -ascii -fname ibm9
+./gen lit -nitems 1 -ntrans 10 -ascii -fname ibm10

@@ -1,0 +1,4 @@
+clear
+#time ./mug -ftest.ascii -s1 -aN -c
+time ./mug -fchess.ascii -s2000 -aN -n
+#time ./mug  -i6 -t9 -d0.45 -s1 -m10 -aN

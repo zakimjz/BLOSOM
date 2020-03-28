@@ -1,0 +1,5 @@
+clear
+time ./xug -ftest.ascii -s1 -c
+#time ./xug -fchess.ascii -x1100 -n -c
+#time ./xug -i6 -t9 -d0.45  
+

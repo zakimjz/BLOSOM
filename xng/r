@@ -1,0 +1,8 @@
+clear
+#time ./xng -ftest.ascii -s1 -c
+time ./xng -fchess.ascii -s2000 -n
+#time ./xng -fchess.ascii -s1400 -n
+#time ./xng -fchess.ascii -s1598 -n
+#time ./xng -fconnect.dat -s1598 -n
+#time ./xng -fconnect.ascii -s1598 -n
+
